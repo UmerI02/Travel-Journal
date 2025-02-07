@@ -6,7 +6,7 @@ A sleek and interactive Travel Journal application built with React.js. This app
 
 * 🌍 Add New Travel Entries: Record your trips with photos, descriptions, and dates.
 
-* 🗺️ Location Mapping: Pin your travel destinations on a visual map (if applicable).
+* 🗺️ Location Mapping: Pin your travel destinations on a visual map.
 
 * 📸 Photo Uploads: Include images to make your journal entries come alive.
 
