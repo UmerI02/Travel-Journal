@@ -1,0 +1,57 @@
+body,html{
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    background-color: #f84c54;
+    color:white;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.cards{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+.card-image>img{
+    width: 144px;
+    height: 200px;
+    border-radius: 5px;
+}
+.card{
+    display: flex;
+}
+.card-details{
+    display: block;
+    margin-left: 20px;
+    height: fit-content;
+    margin-top: 15px;
+}
+.fa-map-marker{
+    color:#f84c54;
+    font-size: small;
+}
+#location{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: small;
+}
+.card-details>p{
+    font-size: small;
+}
+.card-details>h3{
+    margin-top: 10px;
+    font-size: small;
+}
+.card-details>h1{
+    font-size: x-large;
+    margin-top: 8px;
+}
+.card-details>a{
+    font-size: x-small;
+}
