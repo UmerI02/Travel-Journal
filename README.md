@@ -7,7 +7,7 @@ A sleek and interactive **Travel Journal** application built with **React.js**. 
 ## Features
 
 - 🌍 **Add New Travel Entries:** Record your trips with photos, descriptions, and dates.
-- 🗺️ **Location Mapping:** Pin your travel destinations on a visual map *(if applicable)*.
+- 🗺️ **Location Mapping:** Pin your travel destinations on a visual map.
 - 📸 **Photo Uploads:** Include images to make your journal entries come alive.
 - ✏️ **Edit & Delete Entries:** Easily modify or remove travel logs.
 - 📱 **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
@@ -64,7 +64,7 @@ To run the Travel Journal locally, follow these steps:
 - **React.js** - Frontend Library
 - **JavaScript (ES6+)** - Programming Language
 - **HTML5 & CSS3** - Markup and Styling
-- **[Google Maps API](https://developers.google.com/maps)** - For location mapping *(if applicable)*
+- **[Google Maps API](https://developers.google.com/maps)**
 
 ---
 
@@ -113,13 +113,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Acknowledgments
 
 - Inspired by the love for travel and exploration.
-- Special thanks to any API services or libraries that support the app's features *(e.g., Google Maps API if used)*.
+- Special thanks to any API services or libraries that support the app's features.
 
 ---
 
 ## Contact
 
-Developed by **[Umer Iqbal](https://github.com/UmerI02)**\
+Developed by **[Umer Ibrar](https://github.com/UmerI02)**\
 Feel free to reach out for any questions, suggestions, or feedback!
 
 ---
